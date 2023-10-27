@@ -1,0 +1,15 @@
+{
+  "name": "gato2",
+  "version": "1.0.0",
+  "description": "Juego gato en javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "yes"
+  },
+  "author": "Ivanoide",
+  "license": "ISC"
+}
